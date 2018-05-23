@@ -1,4 +1,4 @@
-package com.tentcoo.CstSpoder;
+package com.tentcoo.CstSpider;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

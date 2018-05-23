@@ -1,4 +1,4 @@
-package com.tentcoo.CstSpoder;
+package com.tentcoo.CstSpider;
 
 import java.util.LinkedList;
 import java.util.concurrent.ExecutorService;
